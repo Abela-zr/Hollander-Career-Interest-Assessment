@@ -1,0 +1,12 @@
+<view class="container">
+	<image src="/images/02.jpg"></image>
+	<view class="wenti">{{index+1}}、{{questionDetail}}</view>
+	<view class="button-zongti">
+		<button class="xuanxiangA" hover-class="ui-dianji" bindtap='answerClickA'>
+			<view>{{optionA}}、{{answerA}}</view>
+		</button>
+		<button class="xuanxiangB" hover-class="ui-dianji" bindtap='answerClickB'>
+			<view>{{optionB}}、{{answerB}}</view>
+		</button>
+	</view>
+</view>

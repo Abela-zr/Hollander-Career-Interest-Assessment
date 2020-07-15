@@ -1,0 +1,9 @@
+<view class="container">
+  <image src="/images/02.jpg"></image>
+  <view class="jieguo">您的定性评判结果为：</view>
+
+  <text class="leixing">{{kind}}</text>
+  <text class="pingjia">{{one}}</text>
+ 
+
+</view>

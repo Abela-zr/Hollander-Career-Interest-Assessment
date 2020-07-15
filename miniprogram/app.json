@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/test/test",
+    "pages/result/result"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "霍兰德职业兴趣测试",
+    "navigationBarTextStyle": "black"
+    
+  },
+  "sitemapLocation": "sitemap.json"
+  
+}

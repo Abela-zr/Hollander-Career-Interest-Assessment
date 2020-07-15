@@ -1,0 +1,50 @@
+.container{
+  width: 100%;
+  height: 1365rpx;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+image{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.wenti{
+  position: absolute;
+  z-index: 1;
+  top: 350rpx;
+  left: 35rpx;
+  font-size: 50rpx;
+}
+.button-zongti {
+  position: relative;
+  top: 600rpx;
+  left: 100rpx;
+  font-size: 20px;
+  z-index: 2;
+}
+.xuanxiangA{
+  background-color: whitesmoke;
+  width: 50%;
+  right: 110rpx;
+}
+.xuanxiangB{
+  position: relative;
+  background-color: whitesmoke;
+  width: 50%;
+  right: 110rpx;
+  top: 50rpx;
+}
+
+.ui-dianji{
+  transform: scale(0.95,0.95);
+  background-color: darkgray;
+}
+
+
+
+
+

@@ -1,0 +1,39 @@
+.container{
+  width: 100%;
+  height: 1400rpx;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+image{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.anniu{
+  width: 36%;
+  top: 530rpx;
+  left: 230rpx;
+  background-color: blanchedalmond;
+  position: absolute;
+  
+  font-size: larger;
+}
+.ui-share-hover{
+  transform: scale(0.98,0.98);
+}
+.kaishi{
+  position: absolute;
+  top: 200rpx ;
+  left: 190rpx;
+  font-size: 60rpx;
+  color: purple;
+}
+.kaishi_1{
+  position: absolute;
+  top: 300rpx;
+  left: 160rpx;
+  font-size: 60rpx;
+  color: purple;
+}

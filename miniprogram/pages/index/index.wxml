@@ -1,0 +1,8 @@
+
+<view class="container">
+  <image src='/images/9.jpg'></image>
+  <text class="kaishi">职业兴趣测试，</text>
+  <text class="kaishi_1">请抓紧时间做完</text>
+  <button class="anniu" hover-class="ui-share-hover" bindtap="go_01">开始测验
+  </button>
+</view>
