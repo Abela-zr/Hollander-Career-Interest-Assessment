@@ -28,9 +28,9 @@ image{
   position: absolute;
   margin: 0rpx;
   padding: 0rpx;
-  left: 20rpx;
-  right: 20rpx;
+  left: 102rpx;
+  right: 86rpx;
   top: 550rpx;
-  color: darkorchid;
+  color: rgb(2, 4, 173);
   font-size: 40rpx;
 }
