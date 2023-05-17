@@ -1,12 +1,17 @@
-# 云开发 quickstart
+# Hollander Career Interest Assessment
+## Author: Rui Zhu
+### Creation_time: 2020.11.11
+### Blog: https://zhu-rui.blog.csdn.net/
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
+# Cloud Development quickstart
 
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
+This is a quick start guide to cloud development, which demonstrates how to get started with the three basic capabilities of cloud development:
 
-## 参考文档
+- Database: A JSON document-based database that can be manipulated on the front-end of the applet as well as read and write in cloud functions
+- File storage: upload/download cloud files directly from the front end of the applet and manage them visually in the cloud development console
+- Cloud functions: code that runs in the cloud, naturally authenticated by WeChat's private protocol, developers only need to write business logic code
 
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+## Reference documents
+
+- [Cloud Development Documentation](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
